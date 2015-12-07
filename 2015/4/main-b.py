@@ -10,7 +10,7 @@ if __name__ == "__main__":
 	data = "ckczppom"
 	currentDigest = ""
 	counter = 0
-	while not currentDigest.startswith("00000"):
+	while not currentDigest.startswith("000000"):
 		currentDigest = getHexDigest(data + str(counter))
 		print str(counter) + " : " + currentDigest
 		counter += 1
