@@ -15,8 +15,8 @@ This repository is my solutions to [Advent of Code](http://adventofcode.com/)
   - [x] 3rd
   - [x] 4th
   - [x] 5th
-  - [ ] 6th
-  - [ ] 7th
+  - [x] 6th
+  - [x] 7th
   - [ ] 8th
   - [ ] 9th
   - [ ] 10th
